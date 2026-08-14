@@ -6,7 +6,7 @@
 
 前往 [Releases](../../releases) 下载最新版：
 
-- **v1.1.0：** `NCM格式批量转换器-v1.1.0.exe`
+- **v1.1.0：** `NCM-Format-Converter-v1.1.0.exe`
 - 建议下载后按仓库中的 `SHA256SUMS.txt` 校验文件完整性
 
 ## 中文说明
@@ -15,7 +15,7 @@
 
 ### 推荐用法
 
-1. 从 Releases 下载并运行 `NCM格式批量转换器-v1.1.0.exe`。
+1. 从 Releases 下载并运行 `NCM-Format-Converter-v1.1.0.exe`。
 2. 添加一个或多个 NCM 文件，也可以添加整个文件夹。
 3. 优先选择 **“保持原始格式（推荐）”**。
 4. 选择输出目录和同名文件处理方式，点击“开始转换”。
@@ -46,7 +46,7 @@ This Windows desktop tool decrypts each NCM file, detects its real embedded audi
 
 ### Recommended workflow
 
-1. Download and run `NCM格式批量转换器-v1.1.0.exe` from Releases.
+1. Download and run `NCM-Format-Converter-v1.1.0.exe` from Releases.
 2. Add NCM files or a complete folder.
 3. Choose **Keep Original Format (Recommended)**.
 4. Select the output directory and duplicate-file policy, then start conversion.
