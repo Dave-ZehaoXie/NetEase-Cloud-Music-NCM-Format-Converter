@@ -8,7 +8,7 @@ Windows 桌面批量处理工具。程序会检测 NCM 内部的真实音频编�
 
 最新版：[v1.3.0 Release](https://github.com/Dave-ZehaoXie/--NCM-/releases/tag/v1.3.0)
 
-下载 `NCM格式批量转换器-v1.3.0.exe` 后，请使用仓库中的 `SHA256SUMS.txt` 核对文件完整性。
+下载 `NCM-Format-Converter-v1.3.0.exe` 后，请使用仓库中的 `SHA256SUMS.txt` 核对文件完整性。GitHub 下载附件使用英文文件名，程序界面和发布标题仍以中文为主。
 
 | 版本 | 主要更新 |
 | --- | --- |
@@ -19,7 +19,7 @@ Windows 桌面批量处理工具。程序会检测 NCM 内部的真实音频编�
 
 ## 使用方法
 
-1. 运行 `NCM格式批量转换器-v1.3.0.exe`。
+1. 运行 `NCM-Format-Converter-v1.3.0.exe`。
 2. 添加一个或多个 NCM 文件，也可以添加整个文件夹。
 3. 选择输出模式、输出目录和同名文件处理方式。
 4. 点击“开始处理”。
